@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Solution Architect with a strong software engineering background and experience designing **enterprise applications, APIs, microservices, and distributed systems**.
+Solution Architect with a strong software engineering background and an academic foundation in **Mechatronics Engineering and Artificial Intelligence**, with experience designing **enterprise applications, APIs, microservices, and distributed systems**.
 
 My work connects **business, architecture, and software engineering**, transforming complex business requirements into scalable, secure, resilient, and maintainable solutions.
 
@@ -132,7 +132,8 @@ Experience and interest in architectures based on:
 
 ## 🎓 Education & Certifications
 
-- 🎓 Postgraduate Degree in **Artificial Intelligence**
+- 🎓 Bachelor's Degree in **Mechatronics Engineering**
+- 🧠 Postgraduate Degree in **Artificial Intelligence**
 - ☕ **Oracle Certified Java Professional**
 
 ## 🚀 Projects & Architecture
@@ -156,7 +157,7 @@ Some of the areas I work with and explore include:
 
 ## 💡 Architecture Philosophy
 
-```text
+```text id="4qv51n"
 Business
    ↓
 Domain
